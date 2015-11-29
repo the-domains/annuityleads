@@ -1,7 +1,7 @@
 name: annuityleads
 favicon: null
-layout_spectrum: 0.29105888423509896
-typography_spectrum: 0.5692777016665787
+layout_spectrum: 0.51341
+typography_spectrum: 0.78891
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7323613043408841
-  lightness: 0.11249190336093307
-  saturation: 0.13602717476896942
-  rhythmicContrast: 0.7701370040886104
+    - '#ffffff'
+    - '#000000'
+    - '#0055aa'
+    - '#9596b5'
+    - '#00ffff'
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
